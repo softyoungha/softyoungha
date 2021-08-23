@@ -11,7 +11,6 @@
   - FastAPI
 - Batch computing
   - Spark + Pyspark  
-  - Apache Airflow
 - Handling Database
   - RDBMS: Mysql, MariaDb, Postgresql, Oracle
   - HADOOP: Impala, Hive
@@ -24,6 +23,7 @@
   - Canvas context control
 - MLOps
   - docker, docker-compose, docker swarm
+  - Apache Airflow
 
 # Interest
 - ML/DL Engineering & optimizing
