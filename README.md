@@ -25,12 +25,15 @@
   - docker, docker-compose, docker swarm
   - Apache Airflow
 
-# Interest
+# Recently Interest
 - ML/DL Engineering & optimizing
   - Tensorflow 2.5 + 버전
   - Tensorflow Lite
-  - 
 
+- Streaming Data Handling
+  - Flink
+  - ELK Stack
+  
 - Frontend
   - PWA
 
