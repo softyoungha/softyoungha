@@ -24,6 +24,10 @@
 - MLOps
   - docker, docker-compose, docker swarm
   - Apache Airflow
+ 
+- Cloud
+  - AWS(EC2, EMR, Lambda, VPC handling, S3, RDS, etc)
+  - Google Cloud Platform
 
 # Recently Interest
 - ML/DL Engineering & optimizing
@@ -39,3 +43,4 @@
 
 - MLOps
   - Kubernetes
+  - Ansible
