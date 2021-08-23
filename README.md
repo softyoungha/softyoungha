@@ -22,7 +22,7 @@
   - Jquery
   - React
   - Canvas context control
-- Container
+- MLOps
   - docker, docker-compose, docker swarm
 
 # Interest
@@ -34,5 +34,5 @@
 - Frontend
   - PWA
 
-- Container
+- MLOps
   - Kubernetes
