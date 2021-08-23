@@ -1,5 +1,3 @@
-![영하로고](youngha.park.png)
-
 # Skillsets
 
 ### Languages
