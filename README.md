@@ -1,4 +1,4 @@
-![gg](youngha.park.png)
+![영하로고](youngha.park.png)
 
 # Skillsets
 
